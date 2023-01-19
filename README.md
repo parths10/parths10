@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>About Me</h2>
+<h6>My name is Parth, and I am a senior year Business and Computer Science student at UBC Sauder School of Business</h6>
+<h6>I am interested in utilising Agile Methodologies in Projects. I am also interested in UI/UX</h6>
+
+
